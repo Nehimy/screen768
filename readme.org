@@ -8,7 +8,7 @@ Con este ejemplo aprendí algo nuevo y es "box-sizing".
 
 ** Ejemplo
 En este ejemplo hay 2 rectangulos con las mismas dimenciones pero el segundo tiene "box-sizing".
-#+begin_src html
+#+begin_src html5
  .div1 {
   width: 300px;
   height: 100px;
@@ -24,3 +24,8 @@ En este ejemplo hay 2 rectangulos con las mismas dimenciones pero el segundo tie
   box-sizing: border-box;
 }
 #+end_src
+** Imagenes
+Así quedo el ejemplo que hice para cuando la ventana del navegador tenga 768px.
+
+[[https://imgur.com/UXBzR86.png]]
+[[https://imgur.com/UXBzR86]]
