@@ -1,0 +1,26 @@
+
+* Pantalla cuando llegue a 768px
+Es vez toca hacer que cada columna llegue a tener un ancho de 100% cuando la pantalla tenga menos de 768px.
+
+Con este ejemplo aprendí algo nuevo y es "box-sizing".
+** box-sizing
+ Incluye el relleno y el borde en las dimenciones del el ancho y alto total.
+
+** Ejemplo
+En este ejemplo hay 2 rectangulos con las mismas dimenciones pero el segundo tiene "box-sizing".
+#+begin_src html
+ .div1 {
+  width: 300px;
+  height: 100px;
+  border: 1px solid blue;
+  box-sizing: border-box;
+}
+
+.div2 {
+  width: 300px;
+  height: 100px;
+  padding: 50px;
+  border: 1px solid red;
+  box-sizing: border-box;
+}
+#+end_src
