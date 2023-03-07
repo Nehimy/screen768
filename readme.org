@@ -28,4 +28,4 @@ En este ejemplo hay 2 rectangulos con las mismas dimenciones pero el segundo tie
 Así quedo el ejemplo que hice para cuando la ventana del navegador tenga 768px.
 
 [[https://imgur.com/UXBzR86.png]]
-[[https://imgur.com/UXBzR86.png]]
+[[https://imgur.com/dUJcKPF.png]]
